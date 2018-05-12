@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5484
     wikipedia: http://en.wikipedia.org/wiki/Bertram_Lenox_Simpson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14345#The-Fight-For-The-Republic-in-China
 gutenberg_issued: '2004-12-13'
 gutenberg_type: Text
 identifiers:
